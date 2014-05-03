@@ -35,8 +35,8 @@ public class WindowEventDemo extends Frame
         // "this" Frame fires WindowEvent its registered WindowEvent listener
         // "this" Frame adds "this" object as a WindowEvent listener
 
-        setTitle("WindowEvent Demo");  // "this" Frame sets title
-        setSize(250, 100);        // "this" Frame sets initial size
+        setTitle("Nou títol per la finestra WindowEventDemo");
+        setSize(450,100);
         setVisible(true);         // "this" Frame shows
     }
 
